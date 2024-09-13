@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  --mainColor: #007dda;
+  background-image: url(/intro-to-html/images/Homepage-Model-Y.avif);
+  height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container {
+  margin: 0 90px;
+}
+
+/* nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 100%;
+} */
+
+/* img {
+  width: 10%;
+  height: 30px; */
+/* align-items: start; */
+/* }
+
+.links ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.rightHandIcons ul {
+  display: flex;
+  list-style-type: none; */
+/* margin-left: 20px; */
+/* }
+
+.rightHandIcons img {
+  width: 20px;
+  height: 20px; */
+/* margin-right: 40px; */
+/* } */
